@@ -6,4 +6,4 @@ first repository examples
   When a sub-branch is created, it is a copy of the main branch with the new edit. Things to note, when the main branch changes with its sub-branch, you can pull in those updates!
   
   
-
+Adding a new branch from main, giving an example edits
